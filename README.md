@@ -1,6 +1,6 @@
 
 # Configurações do editor de texto zika
-[gif](https://media2.giphy.com/media/udhngZK2IFTc4/giphy.gif)
+ ![ed](https://media2.giphy.com/media/udhngZK2IFTc4/giphy.gif)
 
 
 Git do lazy vim: [LazyVim](https://github.com/LazyVim/LazyVim)
